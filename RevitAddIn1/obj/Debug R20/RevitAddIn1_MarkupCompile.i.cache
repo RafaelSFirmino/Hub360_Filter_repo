@@ -1,0 +1,20 @@
+﻿RevitAddIn1
+1.0.0.0
+
+library
+C#
+.cs
+C:\Users\Rafael\source\repos\RevitAddIn1\RevitAddIn1\obj\Debug R20\
+RevitAddIn1
+none
+false
+;DEBUG;TRACE;DEBUG_R20;NETFRAMEWORK;NET48;
+
+3839177984
+
+121507067094
+27-1997203833
+View\MainWindow.xaml;View\Pages\Filtros\CriarFiltroPage.xaml;View\Pages\Filtros\EditarFiltroPage.xaml;
+
+True
+

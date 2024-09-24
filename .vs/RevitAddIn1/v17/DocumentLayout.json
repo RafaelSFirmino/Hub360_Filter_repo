@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael\\source\\repos\\RevitAddIn1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E111A6-2B1E-4BC0-809F-585791E35A5C}|RevitAddIn1\\RevitAddIn1.csproj|c:\\users\\rafael\\source\\repos\\revitaddin1\\revitaddin1\\view\\pages\\filtros\\criarfiltropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1E111A6-2B1E-4BC0-809F-585791E35A5C}|RevitAddIn1\\RevitAddIn1.csproj|solutionrelative:revitaddin1\\view\\pages\\filtros\\criarfiltropage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E111A6-2B1E-4BC0-809F-585791E35A5C}|RevitAddIn1\\RevitAddIn1.csproj|c:\\users\\rafael\\source\\repos\\revitaddin1\\revitaddin1\\viewmodel\\filtros\\criarfiltroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E111A6-2B1E-4BC0-809F-585791E35A5C}|RevitAddIn1\\RevitAddIn1.csproj|solutionrelative:revitaddin1\\viewmodel\\filtros\\criarfiltroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E111A6-2B1E-4BC0-809F-585791E35A5C}|RevitAddIn1\\RevitAddIn1.csproj|c:\\users\\rafael\\source\\repos\\revitaddin1\\revitaddin1\\commands\\filtros\\criarfiltrohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E111A6-2B1E-4BC0-809F-585791E35A5C}|RevitAddIn1\\RevitAddIn1.csproj|solutionrelative:revitaddin1\\commands\\filtros\\criarfiltrohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriarFiltroHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\RevitAddIn1\\RevitAddIn1\\Commands\\Filtros\\CriarFiltroHandler.cs",
+              "RelativeDocumentMoniker": "RevitAddIn1\\Commands\\Filtros\\CriarFiltroHandler.cs",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\RevitAddIn1\\RevitAddIn1\\Commands\\Filtros\\CriarFiltroHandler.cs",
+              "RelativeToolTip": "RevitAddIn1\\Commands\\Filtros\\CriarFiltroHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:33:55.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriarFiltroViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\RevitAddIn1\\RevitAddIn1\\ViewModel\\Filtros\\CriarFiltroViewModel.cs",
+              "RelativeDocumentMoniker": "RevitAddIn1\\ViewModel\\Filtros\\CriarFiltroViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\RevitAddIn1\\RevitAddIn1\\ViewModel\\Filtros\\CriarFiltroViewModel.cs",
+              "RelativeToolTip": "RevitAddIn1\\ViewModel\\Filtros\\CriarFiltroViewModel.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwIUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:10:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriarFiltroPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\RevitAddIn1\\RevitAddIn1\\View\\Pages\\Filtros\\CriarFiltroPage.xaml",
+              "RelativeDocumentMoniker": "RevitAddIn1\\View\\Pages\\Filtros\\CriarFiltroPage.xaml",
+              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\RevitAddIn1\\RevitAddIn1\\View\\Pages\\Filtros\\CriarFiltroPage.xaml",
+              "RelativeToolTip": "RevitAddIn1\\View\\Pages\\Filtros\\CriarFiltroPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T01:44:54.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
